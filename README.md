@@ -1,7 +1,7 @@
-### API de Ordem de Serviço
+# API de Ordem de Serviço
 Esta API realiza cadastros de clientes, ordens de serviço e comentários sobre as ordens de serviços, onde cada OS possui um status e datas de inicialização e finalização que são controladas automaticamente pelo sistema após uma OS ser cadastrada ou finalizada.
 
-Linguagem de programação: Java 11.
+Linguagem de programação: Java 11
 
 Spring boot
 
@@ -21,7 +21,7 @@ H2-console
 
 MySQL
 
-# Ferramentas utilizadas:
+### Ferramentas utilizadas:
 Spring Tool Suite (STS)
 
 Postman
